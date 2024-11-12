@@ -91,6 +91,15 @@ h3 {
     margin-top: 20px;
 }
 
+#posaff {
+    color: #232b2b;
+    background-color: #51c7eb;
+    justify-content: center;
+    font-size: 1.3em;
+    line-height: 2.8em;
+    
+}
+
 /* Footer */
 footer {
     background-color: #232b2b;
