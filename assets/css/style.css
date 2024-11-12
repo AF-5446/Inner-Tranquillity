@@ -88,6 +88,10 @@ h3 {
 }
 
 /* Managing Stress */
+.carousel {
+    width: 400px;
+    height: 600px;
+}
 
 /* Resources */
 #resources {
