@@ -23,6 +23,12 @@ body {
     color: #232b2b;
 }
 
+.custom-btn:hover {
+    background-color: #5cba64 ;
+    color: #ffffff;
+    border-color: #5cba64;
+}
+
 /* Hero Section */
 #hero {
     background-color: lightgray;
