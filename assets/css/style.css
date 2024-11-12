@@ -92,9 +92,11 @@ h3 {
 }
 
 /* Footer */
-
-
-
+footer {
+    background-color: #232b2b;
+    color: #ffffff;
+    padding: 10px 0;
+}
 
 
 /* Hero Section */
