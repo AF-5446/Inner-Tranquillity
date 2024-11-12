@@ -130,6 +130,13 @@ footer {
     padding: 10px 0;
 }
 
+footer .links {
+    background-color: #c1ee9a;
+    color: #232b2b;
+    padding: 0;
+    margin: 0;
+}
+
 /* Modal */
 .modal-content {
     padding: 10px;
