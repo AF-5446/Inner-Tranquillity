@@ -66,7 +66,7 @@ h3 {
     background-color: #51c7eb;
     justify-content: center;
     font-size: 1.3em;
-    line-height: 2em;
+    line-height: 2.9em;
 }
 
 /* Mental Health Awareness */
@@ -76,6 +76,10 @@ h3 {
     margin-left: 15px;
     margin-bottom: 0;
     padding: 0 !important;
+}
+
+#bmhimh {
+    margin: 0;
 }
 
 /* Recognizing Symptoms */
@@ -127,30 +131,32 @@ footer {
 }
 
 /* Media quieries */
-/* Medium devices (768px and up)*/
+/* Medium devices (768px and up)
 @media screen and (max-width: 768px) {
-    /* Make all service cards the same height for consistency*/
+    /* Make all service cards the same height for consistency
     #common-issues .card-body {
-      min-height: 280px; /*280? 232*/
+      min-height: 280px; /*280? 232
     }
 }
 
-/* Large devices (1200px and up) */
+/* Large devices (1200px and up) 
 @media screen and (max-width: 1200px) {
-    /* makes all common issues cards same height for consistency on XL screens */
+    /* makes all common issues cards same height for consistency on XL screens 
     #common-issues .card-body {
       min-height: 235px;
     }
 }
 
-/* Extra large devices (1400px and up) */
+/* Extra large devices (1400px and up) 
 @media screen and (max-width: 1400px) {
-    /* makes all common issues cards same height for consistency on XL screens */
+    /* makes all common issues cards same height for consistency on XL screens 
     #common-issues .card-body {
       min-height: 235px;
     }
 }
+    */
 
+/* Mental health awareness cards spaced. */
 @media screen and (min-width: 0px) and (max-width: 768px) {
     #umh {
         margin-top: 15px;
@@ -170,5 +176,11 @@ footer {
 @media screen and (min-width: 992px) and (max-width: 1400px) {
     #pei {
     margin-top: 15px;    
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1200px) {
+    #rcistress {
+        min-height: 235px;
     }
 }
