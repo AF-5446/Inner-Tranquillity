@@ -1,6 +1,22 @@
 /* Global Styles */
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,300;1,14..32,300&display=swap');
 
+/*
+- Colors:
+- blue: #51c7eb (background)
+- light green: #c1ee9a (buttons)
+- grey: #232b2b (text) 
+*/
+
+body {
+    font-family: 'Inter', sans-serif;
+    color: #232b2b;
+    background-color: #51c7eb;
+}
+
+
+
+/* Hero Section */
 #hero {
     background-color: lightgray;
     background: url(../images/man-looking-at-mountains.jpg);
