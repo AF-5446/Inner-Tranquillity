@@ -108,3 +108,28 @@ h3 {
     color: white;
     line-height: 60px;
 }
+
+/* Media quieries */
+/* Medium devices (768px and up)*/
+@media screen and (max-width: 768px) {
+    /* Make all service cards the same height for consistency*/
+    #common-issues .card-body {
+      min-height: 280px; /*280? 232*/
+    }
+}
+
+/* Large devices (1200px and up) */
+@media screen and (max-width: 1200px) {
+    /* makes all common issues cards same height for consistency on XL screens */
+    #common-issues .card-body {
+      min-height: 235px;
+    }
+}
+
+/* Extra large devices (1400px and up) */
+@media screen and (max-width: 1400px) {
+    /* makes all common issues cards same height for consistency on XL screens */
+    #common-issues .card-body {
+      min-height: 235px;
+    }
+}
