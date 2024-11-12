@@ -37,6 +37,7 @@ body {
 
 .sharp-corners {
     border-radius: 0;
+    padding-left: 0;
 }
 
 /* Navbar */
@@ -47,8 +48,8 @@ body {
 }
 
 #about {
-    color: white;
-    background-color: #005d5c;
+    color: #232b2b;
+    background-color: #e2c3cc;
     justify-content: center;
     font-size: 1.3em;
     line-height: 3.5em;
