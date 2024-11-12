@@ -122,7 +122,9 @@ footer {
 }
 
 /* Modal */
-
+.modal-content {
+    padding: 10px;
+}
 
 /* Hero Section */
 #hero {
