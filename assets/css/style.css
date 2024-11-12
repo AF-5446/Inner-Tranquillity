@@ -8,13 +8,20 @@
 - grey: #232b2b (text) 
 */
 
+/* Body */
 body {
     font-family: 'Inter', sans-serif;
     color: #232b2b;
     background-color: #51c7eb;
 }
 
-
+/* Buttons */
+.custom-btn {
+    border-radius: 0;
+    background-color: #c1ee9a;
+    border-color: #c1ee9a;
+    color: #232b2b;
+}
 
 /* Hero Section */
 #hero {
