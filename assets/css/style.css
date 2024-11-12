@@ -3,18 +3,18 @@
 
 /*
 - Colors:
-- blue: #51c7eb (background)
+- blue: #51c7eb (cards)
 - light green: #c1ee9a (buttons)
 - grey: #232b2b (text)
 - dark green: #5cba64 (hover)
-- lilac (?): #e2c3cc (cards)
+- light blue: #abdbe3 (background)
 */
 
 /* Body */
 body {
     font-family: 'Inter', sans-serif;
     color: #232b2b;
-    background-color: #51c7eb;
+    background-color: #abdbe3;
 }
 
 /* Buttons */
@@ -31,18 +31,26 @@ body {
     border-color: #5cba64;
 }
 
+/* Bulletpoints */
 .bullets {
     list-style-type: none;
 }
 
+ /* Cards */
 .sharp-corners {
     border-radius: 0;
     padding-left: 0;
 }
 
 .card-body {
-    background-color: #e2c3cc;
+    background-color: #51c7eb;
     color: #232b2b
+}
+
+/* Header (3) text-centered */
+h3 {
+    text-align: center;
+    justify-content: center;
 }
 
 /* Navbar */
@@ -54,7 +62,7 @@ body {
 
 #about {
     color: #232b2b;
-    background-color: #e2c3cc;
+    background-color: #51c7eb;
     justify-content: center;
     font-size: 1.3em;
     line-height: 3.5em;
@@ -70,8 +78,18 @@ body {
 /* Managing Stress */
 
 /* Resources */
+#resources {
+    margin-top: 20px;
+}
+
+#resources .card-body {
+    background-color: #51c7eb;
+}
 
 /* Positive Affirmations */
+.posaff {
+    margin-top: 20px;
+}
 
 /* Footer */
 
