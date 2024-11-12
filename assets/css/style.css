@@ -82,7 +82,10 @@ h3 {
     margin: 0;
 }
 
-/* Recognizing Symptoms */
+/* Recognizing common issues */
+#common-issues {
+    margin-top: 20px;
+}
 
 /* Managing Stress */
 
@@ -164,6 +167,13 @@ footer {
 }
     */
 
+
+/* About us cards spaced. */
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    #about {
+        line-height: 1.5em;
+    }
+}
 /* Mental health awareness cards spaced. */
 @media screen and (min-width: 0px) and (max-width: 768px) {
     #umh {
