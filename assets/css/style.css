@@ -169,7 +169,7 @@ footer {
 
 
 /* About us cards spaced. */
-@media screen and (min-width: 768px) and (max-width: 991px) {
+@media screen and (min-width: 768px) and (max-width: 992px) {
     #about {
         line-height: 1.5em;
     }
@@ -211,11 +211,12 @@ footer {
     }
 }
 
-@media screen and (min-width: 768px) and (max-width: 991px) {
+@media screen and (min-width: 768px) and (max-width: 992px) {
     #nhs {
         margin-top: 15px;
         margin-bottom: 15px;
         margin-left: 15px;
+        margin-right: 15px;
         
     }
 }
