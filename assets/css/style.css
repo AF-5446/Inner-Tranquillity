@@ -40,6 +40,11 @@ body {
     padding-left: 0;
 }
 
+.card-body {
+    background-color: #e2c3cc;
+    color: #232b2b
+}
+
 /* Navbar */
 
 /* About */
