@@ -25,6 +25,41 @@
 <!--Body-->
 <body>
     <!-- Navbar -->
+    <nav class="navbar navbar-expand-sm bg-body-tertiary custom-btn" data-bs-toggle="modal">
+        <div class="container">
+            <!-- Title with image -->
+            <div>
+                <a class="navbar-brand" href="index.html">
+                    <img src="assets/favicon/tranquil.png" alt="Inner Tranquillity logo" width="30" height="30">
+                    Inner Tranquillity
+                </a>
+            </div>
+            <div>
+                <!-- Button -->
+                <button type="button" class="btn btn-primary btn-sm custom-btn" data-bs-toggle="modal"
+                    data-bs-target="#exampleModal">
+                    Immediate Help
+                </button>
+            </div>
+            <!-- Links -->
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Common Issues</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Resources</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Positive Affirmations</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
 
     <!-- Header Section -->
     <header id="hero" class="container-fluid">
@@ -378,6 +413,44 @@
     </footer>
 
     <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Immediate Help</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>
+                        If you feel yourself or another is in distress, tap one of the options below to speak to a member
+                        of a team
+                    </p>
+                </div>
+                <form class="row g-3">
+                    <div class="col-md-4">
+                        <a href="tel:116123" class="btn btn-outline-info btn-block mb-2">
+                            Samaritans Number
+                        </a>
+                    </div>
+                    <div class="col-md-4">
+                        <a href="tel:85258" class="btn btn-outline-info btn-block mb-2">
+                            SHOUT text line
+                        </a>
+                    </div>
+                    <div class="col-md-4">
+                        <a href="tel:08006894141" class="btn btn-outline-info btn-block mb-2">
+                            Papyrus HOPELINEUK Number
+                        </a>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-bs-dismiss="modal">
+                    Close
+                </button>
+            </div>
+        </div>
+    </div>
 
     <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
