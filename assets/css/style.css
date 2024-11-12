@@ -31,6 +31,10 @@ body {
     border-color: #5cba64;
 }
 
+.bullets {
+    list-style-type: none;
+}
+
 /* Navbar */
 
 /* About */
