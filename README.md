@@ -11,16 +11,15 @@ Inner Tranquility is a mental health awareness platform, designed to help the us
     * [User Stories](#user-stories)
 
 * [Design](#design)
-    * [Colour Scheme](#color-scheme)
+    * [Colour Scheme](#colour-scheme)
     * [Typography](#typograhy)
     * [Imagery](#imagery)
     * [Wireframes](#wireframes)
 
 * [Features](#features)
-    * [General Features]()
-    * [Future Implementation]()
-    * [Accessibility]()
-
+    * [General Features](#general-features)
+    * [Future Implementation](#future-implementation)
+    
 * [Technologies Used](#techused)
     * [Languages Used](#langused)
     * [Frameworks, library and programs](#frame-lib-prog)
@@ -58,10 +57,10 @@ As someone with a challenging job, being able to remind myself about stress navi
 [x] A focus on using HTML and CSS with Bootstrap to create a calming and well organised user experience.
 
 ### Potential Features
-[-] Hero section with Positive messaging: A Bootstrap Jumbotron with an encouraging message about mental health
-- This first Criteria was not exactly possible to meet with the use of a jumbotron, as Bootstrap had updated to v5.3, and taken the jumbotron out of use due to other ways the look can be acheived.
+[-] Hero section with Positive messaging: A Bootstrap Jumbotron with an encouraging message about mental health <br>
+- This first Criteria was not exactly possible to meet with the use of a jumbotron, as Bootstrap had updated to v5.3, and taken the jumbotron out of use due to other ways the look can be acheived.<br>
 
-[x] Using calming colour scheme &
+[x] Using calming colour scheme & <br>
 [x] Simple background image
 
 ## Design
@@ -83,7 +82,7 @@ with plenty of research and discussions the use of [WebAIM](https://webaim.org/r
 <hr>
 <p align="right"><a href="#inner-tranquility">Back To Top</a></p>
 
-## Fonts
+## Typography
 
 Like colour, the fonts took some consideration and was also discussed with the best option of use. These were implemented via [Google Fonts](https://fonts.google.com). The fonts were imported using a direct code within the style.css file.
 
@@ -111,4 +110,14 @@ To represent the webpage name, and needing to meet criteria, pastel colours had 
 - Adhere to colour research
 - Appealing to target audience
 
-The main image seen when the webpage is opened, represented the way I wanted to potray the website, [seen here](assets/images/man-looking-at-mountains.webp)
+The main image seen when the webpage is opened, represented the way I wanted to potray the website, [seen here](assets/images/man-looking-at-mountains.webp). 
+<hr>
+<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+
+## Features
+### General Features
+Keeping the fulfilment criteria in mind, the page consists of various sectioned information, some with links to different websites/ further resources.
+
+### Future Implementation
+For the future, I would explore more options of design implementation, as I feel it would make the page flow more evenly. Adding in the use of more cards or ways to break up information, so it doesnt feel as overwhelming to the user.
+
