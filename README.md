@@ -60,6 +60,7 @@ As someone with a challenging job, being able to remind myself about stress navi
 ### Potential Features
 [-] Hero section with Positive messaging: A Bootstrap Jumbotron with an encouraging message about mental health
 -- This first Criteria was not exactly possible to meet with the use of a jumbotron, as Bootstrap had updated to v5.3, and taken the jumbotron out of use due to other ways the look can be acheived.
+
 [x] Using calming colour scheme &
 [x] Simple background image
 
