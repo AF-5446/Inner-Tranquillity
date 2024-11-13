@@ -96,6 +96,10 @@ Like colour, the fonts took some consideration and was also discussed with the b
 [Balsamiq](https://balsamiq.com/) helped to create basic wireframes which laid out basic features and guidance for layout.
 
 **Desktop Wireframe**
+![desktop wireframe top](docs/wireframe%20desktop%20top.png)
+![desktop wireframe top](docs/scroll-for-mental-health-awareness.png)
+![desktop wireframe top](docs/3rd-scroll-common-issues-and-carousel.png)
+![desktop wireframe top](docs/bottom-of-desktop-wf.png)
 <a href="docs/wireframe desktop top.png">
 <a href="docs/scroll-for-mental-health-awareness.png">
 <a href="docs/3rd-scroll-common-issues-and-carousel.png">
