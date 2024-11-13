@@ -82,3 +82,14 @@ with plenty of research and discussions the use of [WebAIM](https://webaim.org/r
 
 <hr>
 <p align="right"><a href="#inner-tranquility">Back To Top</a></p>
+
+## Fonts
+
+Like colour, the fonts took some consideration and was also discussed with the best option of use. These were implemented via [Google Fonts](https://fonts.google.com). The fonts were imported using a direct code within the style.css file.
+
+[Inter](https://fonts.google.com/specimen/Inter?preview.text=Inner%20Tranquillity) was the font decided on, at "light 300" and "light 300 italic" strength.
+
+<hr>
+<p align="right"><a href="#inner-tranquility">Back To Top</a></p>
+
+### Wireframes
