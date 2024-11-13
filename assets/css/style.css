@@ -95,6 +95,11 @@ h3 {
     align-items: flex;
 }
 
+.card-backup {
+    margin-top: 0px;
+    padding: 0;
+}
+
 /* Resources */
 #resources {
     margin-top: 20px;
