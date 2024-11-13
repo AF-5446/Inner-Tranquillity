@@ -103,8 +103,10 @@ can be seen in docs file if not loading on the screen [here](docs/wireframe%20de
 ![desktop wireframe top](docs/bottom-of-desktop-wf.png)
 
 **Tablet Wireframe**
+![Tablet wireframe](docs/tablet-wf.png)
 
 **Mobile Wireframe**
+![Phone wireframe](docs/phone-wf.png)
 
 <hr>
 <p align="right"><a href="#inner-tranquillity">Back To Top</a></p>
