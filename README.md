@@ -159,7 +159,44 @@ This allows for early and continuous testing using a variety of devices, as well
 
 Additional information on the deployment process can be found on the official [GitHub Docs](https://docs.github.com/en/pages/quickstart)
 
+<hr>
+<p align="right"><a href="#inner-tranquillity">Back To Top</a></p>
 
+## Testing
+Testing and validation os the website was carried out throughout the course of the project.
+
+This included regular debugging and testing using the Dev Tools as ptovided within Chrome Browser.
+
+[HTML Validation](https://validator.w3.org/)<br>
+![HTML Validation](/documentation/images/validation-html.webp)
+
+[CSS Validation](https://jigsaw.w3.org/css-validator/)<br>
+![CSS Validation](/documentation/images/validation-css.webp)
+
+[Lighthouse](https://developer.chrome.com/docs/lighthouse/overview)<br>
+![Lighthouse](/documentation/images/lighthouse.webp)
+
+<hr>
+<p align="right"><a href="#inner-tranquillity">Back To Top</a></p>
+
+## Credits
+### Code Institute
+Project and primary learning supplied by [Code Institute](https://codeinstitute.net/ie/)<br>
+Supplemental learning resources directly used / referenced within the project:
+
+- [Bootstrap Docs](https://getbootstrap.com/docs/5.3)
+- [Bootstrap 5 Crash Course Tutorial #9 - Navbars - YouTube](https://www.youtube.com/watch?v=7AT1X9Z41sA&t=677s)
+- [CSS Variables - The var() function](https://www.w3schools.com/css/css3_variables.asp)
+- [Gemini](https://gemini.google.com) as a learning tool, no code was directly used
+- [Make cards same height side-by-side in Bootstrap 5 - YouTube](https://www.youtube.com/watch?v=wolSRMGJ-Ls)
+- [Mozilla - mdn web docs](https://developer.mozilla.org/)
+
+### Content Research
+Due to the nature of the project, I was taken to many websites for information, aided with the use of AI to compile the information.
+
+### Acknowledgment
+- Kirsten, Annabel and Louise for providing feedback on the website look
+- Geraldine, Annabel, Kirsten for providing options for discussions on colours/ images. Kirsten for providing further avenues to discuss mental health needs.
 
 <hr>
 <p align="right"><a href="#inner-tranquillity">Back To Top</a></p>
