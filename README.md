@@ -174,14 +174,20 @@ Testing and validation os the website was carried out throughout the course of t
 
 This included regular debugging and testing using the Dev Tools as ptovided within Chrome Browser.
 
-[HTML Validation](https://validator.w3.org/)<br>
-![HTML Validation](/documentation/images/validation-html.webp)
-
-[CSS Validation](https://jigsaw.w3.org/css-validator/)<br>
-![CSS Validation](/documentation/images/validation-css.webp)
-
 [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview)<br>
-![Lighthouse](/documentation/images/lighthouse.webp)
+![Lighthouse](docs/lighthouse-assessment.png)
+
+Lighthouse had persistent problems for me, no matter what changes I made, especially with images despite being (mostly all) webp format.
+
+### Bugs
+
+whilst using lighthouse, it gave me a good indication with how element were affecting my code. I was able to make a good amount of changes which increased it. When I moved onto including a carousel of images with description, it plummeted the lighthouse score to mid 30's. As I was nearing the deadline, I had to include another stand in of cards, which has also bugged out when trying to make them properly aligned.
+
+"Recognising common issues" the cards for this section wont align, despite multiple media queiry attempts.
+
+"Resource" col-md wont fit to page when md-4,  only allows md-6 but only stacks after that.
+
+As well as lighthouse, HTML and CSS validator was used, but unable to provide an image. There was a persistent "error" on my html which was because I had wrapped list items in a "p" element by accident.
 
 <hr>
 <p align="right"><a href="#inner-tranquillity">Back To Top</a></p>
