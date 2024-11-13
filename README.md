@@ -204,7 +204,9 @@ Supplemental learning resources directly used / referenced within the project:
     profile: (https://www.pexels.com/@mizunokozuki/)
 - [Photo by Chirayu Vyas: ](https://www.pexels.com/photo/woman-sitting-on-bench-in-forest-and-exercising-yoga-26382826/)
 - [Photo by Diliara Garifullina: ](https://www.pexels.com/photo/a-person-pouring-milk-into-a-bowl-with-cereal-and-fruit-26890887/)
--[Photo by Brett Sayles](https://www.pexels.com/@brett-sayles/)
+- [Photo by Brett Sayles](https://www.pexels.com/@brett-sayles/)
+- [Photo of yoga by the lake by Frances Locke](https://pixabay.com/users/thefranceslocke-2099470/)
+- [Photo of men overlooking lake and mountains by User: u_9s459qvxh4](https://pixabay.com/users/u_9s459qvxh4-45313559/)
 
 ### Content Research
 Due to the nature of the project, I was taken to many websites for information, aided with the use of AI to compile the information.
