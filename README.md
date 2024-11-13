@@ -106,3 +106,9 @@ Like colour, the fonts took some consideration and was also discussed with the b
 <p align="right"><a href="#inner-tranquility">Back To Top</a></p>
 
 ## Imagery
+To represent the webpage name, and needing to meet criteria, pastel colours had the most potential, this was also represented in the [Main Palette](#main-palette) with the use of [Pixabay](https://pixabay.com/) and [Pexels](https://www.pexels.com/) images were obtained which best represent the style of the page.
+- Promote Inclusivity
+- Adhere to colour research
+- Appealing to target audience
+
+The main image seen when the webpage is opened, represented the way I wanted to potray the website, [seen here](assets/images/man-looking-at-mountains.webp)
