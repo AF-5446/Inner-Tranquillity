@@ -93,3 +93,16 @@ Like colour, the fonts took some consideration and was also discussed with the b
 <p align="right"><a href="#inner-tranquility">Back To Top</a></p>
 
 ### Wireframes
+
+[Balsamiq](https://balsamiq.com/) helped to create basic wireframes which laid out basic features and guidance for layout.
+
+**Desktop Wireframe**
+
+**Tablet Wireframe**
+
+**Mobile Wireframe**
+
+<hr>
+<p align="right"><a href="#inner-tranquility">Back To Top</a></p>
+
+## Imagery
