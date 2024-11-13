@@ -19,10 +19,10 @@ Inner Tranquility is a mental health awareness platform, designed to help the us
 * [Features](#features)
     * [General Features](#general-features)
     * [Future Implementation](#future-implementation)
-    
-* [Technologies Used](#techused)
-    * [Languages Used](#langused)
-    * [Frameworks, library and programs](#frame-lib-prog)
+
+* [Technologies Used](#technologies-and-languages-used)
+    * [Languages Used](#languages-used)
+    * [Frameworks, library and programs](#frameworks-library-programs)
 
 * [Deployment](#deployment)
     * [Deployment](#deploy)
@@ -120,4 +120,26 @@ Keeping the fulfilment criteria in mind, the page consists of various sectioned 
 
 ### Future Implementation
 For the future, I would explore more options of design implementation, as I feel it would make the page flow more evenly. Adding in the use of more cards or ways to break up information, so it doesnt feel as overwhelming to the user.
+
+<hr>
+<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+
+## Technologies used
+### Technoliges and languages used
+![Static Badge](https://img.shields.io/badge/HTML5-Language-grey?logo=html5&logoColor=%23ffffff&color=%23E34F26)
+![Static Badge](https://img.shields.io/badge/CSS3-Language-grey?logo=css3&logoColor=%23ffffff&color=%231572B6)
+
+<a href="https://git-scm.com/" target=_blank_>![Static Badge](https://img.shields.io/badge/Git-v2.46.2-grey?logo=git&logoColor=%23ffffff&color=%23F05032)</a>
+<a href="https://github.com/" target="_blank">![Static Badge](https://img.shields.io/badge/GitHub-Repo_Hosting-white?logo=github&logoColor=%23ffffff&color=%23181717)</a>
+<a href="https://www.gitpod.io/" target="_blank">![Static Badge](https://img.shields.io/badge/Gitpod-IDE-white?logo=gitpod&logoColor=%23ffffff&color=%23FFAE33)</a>
+
+## FrameWorks Library and Programs
+<a href="https://getbootstrap.com/" target="_blank">![Static Badge](https://img.shields.io/badge/Bootstrap-v5.3.3-grey?logo=bootstrap&logoColor=%23ffffff&color=%237952B3)</a>
+<a href="#" target="_blank">![Static Badge](https://img.shields.io/badge/Font_Awesome-Icons-grey?logo=fontawesome&logoColor=%23ffffff&color=%23538DD7)</a>
+<a href="#" target="_blank">![Static Badge](https://img.shields.io/badge/Google_Fonts-Fonts-grey?logo=googlefonts&logoColor=%23ffffff&color=%234285F4)</a>
+<a href="https://balsamiq.com/wireframes/" target="_blank">![Static Badge](https://img.shields.io/badge/Balsamiq-Wireframes-grey?logoColor=%23ffffff&color=%23CC0100)</a>
+
+<hr>
+<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+
 
