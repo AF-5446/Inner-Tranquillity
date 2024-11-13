@@ -1,5 +1,5 @@
-# Inner Tranquility
-Inner Tranquility is a mental health awareness platform, designed to help the user when in need, and educate those who would like more information if they want to educate themselves or want information for how to help their friend/family/partner.
+# Inner Tranquillity
+Inner Tranquillity is a mental health awareness platform, designed to help the user when in need, and educate those who would like more information if they want to educate themselves or want information for how to help their friend/family/partner.
 
 <p align="center">
 <a href="https://af-5446.github.io/Inner-Tranquillity/" target="_blank">Live project</a>
@@ -80,7 +80,7 @@ with plenty of research and discussions the use of [WebAIM](https://webaim.org/r
 - light blue: #abdbe3 (background)
 
 <hr>
-<p align="right"><a href="#inner-tranquility">Back To Top</a></p>
+<p align="right"><a href="#inner-tranquillity">Back To Top</a></p>
 
 ## Typography
 
@@ -89,7 +89,7 @@ Like colour, the fonts took some consideration and was also discussed with the b
 [Inter](https://fonts.google.com/specimen/Inter?preview.text=Inner%20Tranquillity) was the font decided on, at "light 300" and "light 300 italic" strength.
 
 <hr>
-<p align="right"><a href="#inner-tranquility">Back To Top</a></p>
+<p align="right"><a href="#inner-tranquillity">Back To Top</a></p>
 
 ### Wireframes
 
@@ -102,7 +102,7 @@ Like colour, the fonts took some consideration and was also discussed with the b
 **Mobile Wireframe**
 
 <hr>
-<p align="right"><a href="#inner-tranquility">Back To Top</a></p>
+<p align="right"><a href="#inner-tranquillity">Back To Top</a></p>
 
 ## Imagery
 To represent the webpage name, and needing to meet criteria, pastel colours had the most potential, this was also represented in the [Main Palette](#main-palette) with the use of [Pixabay](https://pixabay.com/) and [Pexels](https://www.pexels.com/) images were obtained which best represent the style of the page.
@@ -112,7 +112,7 @@ To represent the webpage name, and needing to meet criteria, pastel colours had 
 
 The main image seen when the webpage is opened, represented the way I wanted to potray the website, [seen here](assets/images/man-looking-at-mountains.webp). 
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#inner-tranquillity">Back To Top</a></p>
 
 ## Features
 ### General Features
@@ -122,7 +122,7 @@ Keeping the fulfilment criteria in mind, the page consists of various sectioned 
 For the future, I would explore more options of design implementation, as I feel it would make the page flow more evenly. Adding in the use of more cards or ways to break up information, so it doesnt feel as overwhelming to the user.
 
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#inner-tranquillity">Back To Top</a></p>
 
 ## Technologies used
 ### Technoliges and languages used
@@ -140,6 +140,26 @@ For the future, I would explore more options of design implementation, as I feel
 <a href="https://balsamiq.com/wireframes/" target="_blank">![Static Badge](https://img.shields.io/badge/Balsamiq-Wireframes-grey?logoColor=%23ffffff&color=%23CC0100)</a>
 
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#inner-tranquillity">Back To Top</a></p>
+
+## Deployment
+This [Github](https://github.com) project was created with the code institute template in mind. After some issues with editing, it was most ideal to create a separate project to implement a clean usable README.md file.
+
+Setup a repo using this method and template:
+1. Login to your GitHub profile.
+2. Navigate to the Code Institute Full Template
+3. Click the dropdown for 'Use this template' and select "Create a new repository"
+4. Generate the necessary name and description for your repo and click 'Create repository from template'
+5. Navigate to the new repo and click the green 'Open' button with the Gitpod logo<br>
+**IMPORTANT - This button should only be clicked once to generate the new IDE workspace**
+6. You can now work on your repository within the Code Institute Gitpod IDE workspace
+
+Once the project repo is created, an early deployment for the live project should performed.<br>
+This allows for early and continuous testing using a variety of devices, as well as the Dev Tools available within browsers.
+
+Additional information on the deployment process can be found on the official [GitHub Docs](https://docs.github.com/en/pages/quickstart)
 
 
+
+<hr>
+<p align="right"><a href="#inner-tranquillity">Back To Top</a></p>
