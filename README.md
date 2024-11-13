@@ -1,7 +1,8 @@
 # Inner Tranquility
 Inner Tranquility is a mental health awareness platform, designed to help the user when in need, and educate those who would like more information if they want to educate themselves or want information for how to help their friend/family/partner.
 
-Link to website: https://github.com/AF-5446/Inner-Tranquillity
+<p align="center">
+<a href="https://github.com/AF-5446/Inner-Tranquillity" target="_blank">Live project</a>
 
 ![amiresponsive](docs/am-i-responsive-webp.png)
 
@@ -52,10 +53,12 @@ Link to website: https://github.com/AF-5446/Inner-Tranquillity
 
 ### User Goals
 
+
+
 ### Site Owner Goals
 
-- [] Create a welcoming webpage that provides mental health information using a clean and suppoertive design
-- [] A focus on using HTML and CSS with Bootstrap to create a calming and well organised user experience.
+[x] Create a welcoming webpage that provides mental health information using a clean and suppoertive design
+[x] A focus on using HTML and CSS with Bootstrap to create a calming and well organised user experience.
 
 ## Design
 
