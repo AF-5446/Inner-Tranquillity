@@ -199,7 +199,7 @@ Supplemental learning resources directly used / referenced within the project:
 
 - [Bootstrap Docs](https://getbootstrap.com/docs/5.3)
 - [Gemini](https://gemini.google.com) as a learning tool, no code was directly used
-- [Cloudinary](https://cloudinary.com/tools/image-to-webp to convert images from jpg to webp)
+- [Cloudinary](https://cloudinary.com/tools/image-to-webp) to convert images from jpg to webp
 - [Photo by Mizuno K:](https://www.pexels.com/photo/couple-sitting-on-bench-with-takeout-12898943/) 
     profile: (https://www.pexels.com/@mizunokozuki/)
 - [Photo by Chirayu Vyas: ](https://www.pexels.com/photo/woman-sitting-on-bench-in-forest-and-exercising-yoga-26382826/)
