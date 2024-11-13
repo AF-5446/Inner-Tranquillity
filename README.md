@@ -198,11 +198,13 @@ Project and primary learning supplied by [Code Institute](https://codeinstitute.
 Supplemental learning resources directly used / referenced within the project:
 
 - [Bootstrap Docs](https://getbootstrap.com/docs/5.3)
-- [Bootstrap 5 Crash Course Tutorial #9 - Navbars - YouTube](https://www.youtube.com/watch?v=7AT1X9Z41sA&t=677s)
-- [CSS Variables - The var() function](https://www.w3schools.com/css/css3_variables.asp)
 - [Gemini](https://gemini.google.com) as a learning tool, no code was directly used
-- [Make cards same height side-by-side in Bootstrap 5 - YouTube](https://www.youtube.com/watch?v=wolSRMGJ-Ls)
-- [Mozilla - mdn web docs](https://developer.mozilla.org/)
+- [Cloudinary](https://cloudinary.com/tools/image-to-webp to convert images from jpg to webp)
+- [Photo by Mizuno K:](https://www.pexels.com/photo/couple-sitting-on-bench-with-takeout-12898943/) 
+    profile: (https://www.pexels.com/@mizunokozuki/)
+- [Photo by Chirayu Vyas: ](https://www.pexels.com/photo/woman-sitting-on-bench-in-forest-and-exercising-yoga-26382826/)
+- [Photo by Diliara Garifullina: ](https://www.pexels.com/photo/a-person-pouring-milk-into-a-bowl-with-cereal-and-fruit-26890887/)
+-[Photo by Brett Sayles](https://www.pexels.com/@brett-sayles/)
 
 ### Content Research
 Due to the nature of the project, I was taken to many websites for information, aided with the use of AI to compile the information.
